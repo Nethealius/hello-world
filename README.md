@@ -1,3 +1,3 @@
 # hello-world
-Github told me to
-Bored and exploring github.
+<h1>Github told me to</h1>
+<p>Bored and exploring github.</p>
